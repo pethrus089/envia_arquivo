@@ -41,9 +41,7 @@ openWhatsApp(contact,wayFile) {
 }
 
 ; Agora você pode chamar a função openWhatsApp passando o contato desejado como argumento
-openWhatsApp("prints test","A:\index.pdf")
-openWhatsApp("prints test","A:\inadimplencia.pdf")
-openWhatsApp("prints test","A:\planilha.pdf")
+openWhatsApp("pethrus","C:\Users\Pethrus\Documents\teste.pdf")
 
 
 ;Guilherme presidente
